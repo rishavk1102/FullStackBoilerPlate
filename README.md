@@ -11,6 +11,8 @@ All requests with ***/api*** will directly be made to server.
 ### To use this application : 
 1. Open preferred terminal and navigate to development folder and paste :
 > https://github.com/rishavk1102/FullStackBoilerPlate.git
-2. Keep Grinding.
+2. Run : 
+> npm i
+3. Keep Grinding.
 
 If you have any problem or suggestion, feel free to share ^^
